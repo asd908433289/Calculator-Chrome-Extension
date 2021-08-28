@@ -5,7 +5,7 @@
 
 ## **How To Use**
 1. Clone the github repository
-2. open google chrome
+2. Open google chrome
 3. Go to chrome extension management page
 4. Turn on developer mode
 5. Click add uncompressed chrome extension 
